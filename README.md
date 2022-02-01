@@ -1,10 +1,16 @@
-# Bayesian inference
+# Bayesian Model
+
+* Bayesian model was applied to linear regression in this study.
+* Two studies were conducted with the PyMC3 and Bambi libraries.
+* The effect of TV, radio and newspaper advertisements on sales was estimated.
+
+## Bayesian inference
 
 * It natively incorporates the idea of confidence, it performs well with sparse data, and the model and results are highly interpretable and easy to understand.
 * Suitable for prediction of relatively small or scattered dataset
 * It can be use anywhere you need a clear understanding of your uncertainty.
 
-## Notes:
+## Notes
 
 * Likelihood: How probable is the evidence given that our hypothesis is true? 
 
